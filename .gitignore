@@ -1,3 +1,4 @@
 data/
 .idea/
 *.zip
+.ipynb_checkpoints/
